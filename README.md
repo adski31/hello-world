@@ -1,2 +1,3 @@
 # hello-world
-GitHub Tutorial
+
+The quick brown fox jumps over the lazy dog.
